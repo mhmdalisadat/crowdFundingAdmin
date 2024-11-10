@@ -1,46 +1,18 @@
-## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
+
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-> Free React Admin Dashboard made with Material-UI components and React.
-
 ![preview](public/assets/preview.jpg)
+Crowdfunding Platform
 
-## Demo
+A client-side front-end crowdfunding platform that allows users to create, browse, and contribute to various crowdfunding campaigns. Built with React , MUI, Tailwind CSS, MUI, React Query, JavaScript, and Vite for a fast and responsive user experience.
 
-- [Dashboard Page](https://minimal-kit-react.vercel.app/)
-- [Users Page](https://minimal-kit-react.vercel.app/user)
-- [Products Page](https://minimal-kit-react.vercel.app/products)
-- [Blog Page](https://minimal-kit-react.vercel.app/blog)
-- [Login Page](https://minimal-kit-react.vercel.app/login)
-- [Not Found Page](https://minimal-kit-react.vercel.app/404)
+Table of Contents Features Demo Technologies Used
 
-## Quick start
+Browse Campaigns: Users can browse a list of available campaigns. Campaign Details: View details about each campaign, including the funding goal, description, and current progress. Create Campaigns: Users can create their own campaigns by providing necessary details like title, description, and funding goal. Pledge Support: Contribute funds to support campaigns directly through the platform. Responsive Design: Optimized for mobile, tablet, and desktop devices. Data Fetching with React Query: Efficient data fetching and caching for a smooth user experience. Real-Time Updates: Dynamic updates to the funding status of campaigns without refreshing the page.
 
-- [Download from Github](https://github.com/minimal-ui-kit/material-kit-react/archive/refs/heads/main.zip) or clone the repo : `git clone https://github.com/minimal-ui-kit/material-kit-react.git`
-- Recommended `Node.js v18.x`.
-- **Install:** `yarn install`
-- **Start:** `yarn dev`
-- **Build:** `yarn build`
+Demo Check out the live demo here https://app.isatiscrowd.ir.
 
-## Upgrade to PRO Version
+Technologies Used React: Front-end JavaScript library for building user interfaces. Vite: Fast build tool and development server for React projects. Tailwind CSS: Utility-first CSS framework for rapid UI development. React Query: Data-fetching library to handle server-state in React applications. Getting Started To get a local copy up and running, follow these steps:
 
-| Minimal Free     | [Minimal Pro](https://material-ui.com/store/items/minimal-dashboard/) |
-| :--------------- | :-------------------------------------------------------------------- |
-| **6** Demo Pages | **70+** Demo Pages                                                    |
-| -                | Authentication with **Amplify**, **Auth0**, **JWT** and **Firebase**  |
-| -                | [+More components](https://minimals.cc/components)                    |
-| -                | Dark & light mode                                                     |
-| -                | Next.js version                                                       |
-| -                | TypeScript version (Standard Plus and Extended license)               |
-| -                | Design Figma File (Standard Plus and Extended license)                |
-| -                | Complete Users Flows                                                  |
-| -                | Learn more: [Package & License](https://docs.minimals.cc/package)     |
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-kit/minimal.free/blob/main/LICENSE.md) for more information.
-
-## Contact us
-
-Email: support@minimals.cc
+Usage Creating Campaigns: Click on the "Create Campaign" button, fill in the required fields, and submit to create a new campaign. Pledging Support: Select any campaign you want to support and choose the pledge amount. Confirm the pledge to contribute to the campaign. Viewing Campaign Details: Click on any campaign card to view more details, including the description and funding progress. Project Structure
