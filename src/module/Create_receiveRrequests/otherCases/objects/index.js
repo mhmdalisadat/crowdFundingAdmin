@@ -1,0 +1,1 @@
+export {otherLocalData} from './localData'

@@ -1,0 +1,10 @@
+/* scrollbar */
+@import 'simplebar-react/dist/simplebar.min.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'IRANSANS';
+    src: local('IRANSANS'), url(fonts/woff2/IRANSansXFaNum-Medium.woff2) format('woff2');
+  }
